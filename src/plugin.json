@@ -1,0 +1,20 @@
+{
+  "type": "panel",
+  "name": "Thermometer",
+  "id": "grapekh-thermometer-panel",
+
+  "info": {
+    "description": "Thermometer Panel for Grafana",
+    "author": {
+      "name": "Howie Grapek",
+      "url": "http://www.grapek.com"
+    },
+    "keywords": ["thermometer", "panel", "temperature", "chart"],
+    "logos": {
+      "small": "img/thermometer_logo_small.png",
+      "large": "img/thermometer_logo_large.png"
+    },
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  }
+}
