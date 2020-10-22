@@ -6,7 +6,7 @@ It was based on the original grafana [piechart-panel](https://github.com/grafana
 # Installation
 
 ```
-git clone https://github.com/grapekh/grapekh-thermometer-panel.git
+git clone https://github.com/grapekh/grafana-thermometer-panel.git
 sudo service grafana-server restart
 ```
 Here are some example screen scrapes
