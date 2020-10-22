@@ -1,5 +1,5 @@
 {
-  "name": "temperature-panel",
+  "name": "grapekh-temperature-panel",
   "version": "1.0.0",
   "description": "Grafana Analog Thermometer Panel",
   "repository": {
